@@ -1,0 +1,3 @@
+# Gitマージテスト
+
+Tested , master -> branch 
